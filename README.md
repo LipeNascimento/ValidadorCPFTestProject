@@ -1,4 +1,4 @@
-# ValidadorCPFTestProject
+# Validador de CPF 
 
 Projeto simples em Java que demonstra a prática de **testes unitários** utilizando o framework **JUnit 5**. A aplicação consiste em uma classe responsável por validar strings que representam CPFs (Cadastro de Pessoa Física) testes que cobre cenários básicos.
 
